@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.img_block {
+	width:100%;
+	height:985px;
+	background: white;
+	position: relative;
+    margin: 0 auto;
+    overflow: hidden;  
+}
+
+
+
+
+
+
+.Backlinks {
+position: absolute;
+width: 1085px;
+height: 481px;
+left: 443px;
+top: 270px; 
+	z-index: 3;
+	transition: 0.2s;
+	
+}
+.Backlinks:hover {
+	transform: scale(0.9);
+}
+
+.Arrow {
+position: absolute;
+width: 1858px;
+height: 936px;
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+
+left: 150px;
+bottom: 250px;
+z-index: 3;
+}
+
+.button1  {
+position: absolute;
+
+right: 245px;
+bottom: 60px; 
+z-index: 2;
+transition: 0.2s;
+}
+.button1:hover {  
+	transform: scale(1.1);
+}
+.button2  {
+position: absolute;
+
+right: 320px;
+top: 30px; 
+z-index: 2;
+transition: 0.2s;
+}
+.button2:hover {  
+	
+transform: scale(1.1);
+
+}
+.button3  {
+position: absolute;
+
+left: 87px;
+top: 165px; 
+z-index: 2;
+transition: 0.2s;
+}
+.button3:hover {  
+	transform: scale(1.1);  
+}
+
+.shadow {
+	position: absolute;
+width: 1858px;
+height: 448px;
+left: 87px;
+top: 512px; 
+z-index: 1;
+}
+
+
+ 

@@ -4,7 +4,7 @@
 }
 
 .img_block {
-	width:100%;
+	max-width :1920px;
 	height:985px;
 	background: white;
 	position: relative;
@@ -94,4 +94,927 @@ z-index: 1;
 }
 
 
+  
+
+
+
+
+@media (max-width: 1890px) { 
+
+ .button1{
+ 	right: 225px; 
+ }
+ .button2{
+ 	right: 290px; 
+ }
+
+
+
+ } 
+
+ @media (max-width: 1860px) { 
+
+ .button1{
+ 	right: 200px; 
+ }
+ .button2{
+ 	right: 270px;  
+ }
+
+
+
+ } 
+ @media (max-width: 1840px) { 
+
+ .button1{
+ 	right: 180px; 
+ }
+ .button2{
+ 	right: 250px;  
+ }
+
+
+
+ } 
+
+ @media (max-width: 1820px) { 
+
+ .button1{
+ 	right: 160px; 
+ }
+ .button2{
+ 	right: 230px;  
+ }
+
+
+
+ } 
+
+ @media (max-width: 1800px) { 
+
+ .button1{
+ 	right: 140px; 
+ }
+ .button2{
+ 	right: 210px;  
+ }
+
+
+
+ } 
+
+
+ @media (max-width: 1780px) { 
+
+ .button1{
+ 	right: 120px; 
+ 	bottom: 75px;
+ }
+ .button2{
+ 	top: 40px;
+ 	right: 190px;   
+ }
+ .button3{
+ 	left: 120px;   
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.95);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
  
+left: 150px;
+bottom: 250px;
+z-index: 3;
+}
+
+
+ } 
+
+
+ @media (max-width: 1750px) { 
+
+ .button1{
+ 	right: 120px; 
+ 	bottom: 95px;
+ }
+ .button2{
+ 	top: 50px;
+ 	right: 190px;   
+ }
+
+ .button3{
+ 	top: 185px;
+ 	left: 140px;   
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.92);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.90);
+left: 190px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.92);
+}
+
+
+
+ } 
+ @media (max-width: 1735px) { 
+
+ .button1{
+ 	right: 120px; 
+ 	bottom: 115px;
+ 	transform: scale(0.90);
+ }
+ .button2{
+ 	top: 70px;
+ 	right: 190px; 
+ 	transform: scale(0.90);  
+ }
+
+ .button3{
+ 	top: 195px;
+ 	left: 170px; 
+ 	transform: scale(0.90);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.88);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.86);
+left: 190px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.88);
+}
+
+
+
+ } 
+
+
+ @media (max-width: 1705px) { 
+
+ .button1{
+ 	right: 100px; 
+ 	bottom: 125px;
+ 	transform: scale(0.90);
+ }
+ .button2{
+ 	top: 80px;
+ 	right: 170px; 
+ 	transform: scale(0.90);  
+ }
+
+ .button3{
+ 	top: 195px;
+ 	left: 170px; 
+ 	transform: scale(0.90);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.86);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.84);
+left: 190px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.86);
+}
+
+
+
+ } 
+
+ @media (max-width: 1685px) { 
+
+ 	.img_block {
+ 		margin-left: -150px;
+ 	}
+
+ .button1{
+ 	right: 250px; 
+ 	bottom: 145px;
+ 	transform: scale(0.85);
+ }
+ .button2{
+ 	top: 100px;
+ 	right: 330px; 
+ 	transform: scale(0.85);  
+ }
+
+ .button3{
+ 	top: 225px;
+ 	left: 220px; 
+ 	transform: scale(0.85);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.80);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.78);
+left: 260px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.76);
+}
+
+
+
+ } 
+
+
+ @media (max-width: 1655px) { 
+
+ 	.img_block {
+ 		margin-left: -150px;
+ 	}
+
+ .button1{
+ 	right: 240px; 
+ 	bottom: 145px;
+ 	transform: scale(0.85);
+ }
+ .button2{
+ 	top: 100px;
+ 	right: 300px; 
+ 	transform: scale(0.85);  
+ }
+
+ .button3{
+ 	top: 225px;
+ 	left: 220px; 
+ 	transform: scale(0.85);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.80);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.78);
+left: 260px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.76);
+}
+
+
+
+ } 
+
+
+
+
+ @media (max-width: 1630px) { 
+
+ .button1{
+ 	right: 250px; 
+ 	bottom: 170px;
+ 	transform: scale(0.75);
+ }
+ .button2{
+ 	top: 150px;
+ 	right: 310px; 
+ 	transform: scale(0.75);  
+ }
+
+ .button3{
+ 	top: 255px;
+ 	left: 330px; 
+ 	transform: scale(0.75);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.70);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.68);
+left: 350px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.63);
+}
+
+
+
+ } 
+ @media (max-width: 1615px) { 
+
+ .button1{
+ 	right: 220px; 
+ 	bottom: 170px;
+ 	transform: scale(0.75);
+ }
+ .button2{
+ 	top: 150px;
+ 	right: 290px; 
+ 	transform: scale(0.75);  
+ }
+
+ .button3{
+ 	top: 255px;
+ 	left: 330px; 
+ 	transform: scale(0.75);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.70);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.68);
+left: 350px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.63);
+}
+
+
+
+ } 
+ @media (max-width: 1590px) { 
+
+ .button1{
+ 	right: 200px; 
+ 	bottom: 170px;
+ 	transform: scale(0.75);
+ }
+ .button2{
+ 	top: 150px;
+ 	right: 280px; 
+ 	transform: scale(0.75);  
+ }
+
+ .button3{
+ 	top: 255px;
+ 	left: 330px; 
+ 	transform: scale(0.75);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.70);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.68);
+left: 350px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.63);
+}
+
+
+
+ } 
+
+ @media (max-width: 1570px) { 
+
+ .button1{
+ 	right:180px; 
+ 	bottom: 170px;
+ 	transform: scale(0.75);
+ }
+ .button2{
+ 	top: 150px;
+ 	right: 250px; 
+ 	transform: scale(0.75);  
+ }
+
+ .button3{
+ 	top: 255px;
+ 	left: 330px; 
+ 	transform: scale(0.75);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.70);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.68);
+left: 350px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.63);
+}
+
+
+
+ } 
+ @media (max-width: 1545px) { 
+
+ .button1{
+ 	right:180px; 
+ 	bottom: 200px;
+ 	transform: scale(0.75);
+ }
+ .button2{
+ 	top: 180px;
+ 	right: 270px; 
+ 	transform: scale(0.75);  
+ }
+
+ .button3{
+ 	top: 280px;
+ 	left: 380px; 
+ 	transform: scale(0.75);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.60);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.58);
+left: 420px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.53); 
+}
+
+
+
+ } 
+ @media (max-width: 1520px) { 
+
+ .button1{
+ 	right: 240px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 320px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1500px) { 
+
+
+ .button1{
+ 	right: 220px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 300px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1475px) { 
+
+
+ .button1{
+ 	right: 200px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 280px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1450px) { 
+  
+  .img_block {
+  	margin-left: -250px;
+  }
+
+ .button1{
+ 	right:270px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 350px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+  @media (max-width: 1420px) { 
+  
+  .img_block {
+  	margin-left: -250px;
+  }
+
+ .button1{
+ 	right:250px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 330px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1400px) { 
+  
+  .img_block {
+  	margin-left: -250px;
+  }
+
+ .button1{
+ 	right:230px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 310px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1380px) { 
+  
+  .img_block {
+  	margin-left: -250px;
+  }
+
+ .button1{
+ 	right:210px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 290px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1360px) { 
+  
+  .img_block {
+  	margin-left: -250px;
+  }
+
+ .button1{
+ 	right:190px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 270px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 
+ @media (max-width: 1360px) { 
+  
+  .img_block {
+  	margin-left: -300px;
+  }
+
+ .button1{
+ 	right:220px; 
+ 	bottom: 260px;
+ 	transform: scale(0.65);
+ }
+ .button2{
+ 	top: 250px;
+ 	right: 290px; 
+ 	transform: scale(0.65);  
+ }
+
+ .button3{
+ 	top: 320px;
+ 	left: 490px; 
+ 	transform: scale(0.65);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.45);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.45);
+left: 520px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.35); 
+}
+
+
+
+ } 

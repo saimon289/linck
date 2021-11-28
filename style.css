@@ -1983,3 +1983,668 @@ z-index: 3;
 
 
  } 
+ @media (max-width: 920px) { 
+  
+  .img_block {
+  	margin-top: -250px;
+  	margin-left: -520px;
+  }
+
+ .button1{
+ 	right:50px; 
+ 	bottom: 280px;
+ 	transform: scale(0.55);
+ }
+ .button2{
+ 	top: 270px;
+ 	right: 125px; 
+ 	transform: scale(0.55);  
+ }
+
+ .button3{
+ 	top: 340px;
+ 	left: 540px; 
+ 	transform: scale(0.55);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.40);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.40);
+left: 570px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.32); 
+}
+
+
+
+ } 
+ @media (max-width: 900px) { 
+  
+  .img_block {
+  	margin-top: -250px;
+  	margin-left: -520px;
+  }
+
+ .button1{
+ 	right:30px; 
+ 	bottom: 280px;
+ 	transform: scale(0.55);
+ }
+ .button2{
+ 	top: 270px;
+ 	right: 105px; 
+ 	transform: scale(0.55);  
+ }
+
+ .button3{
+ 	top: 340px;
+ 	left: 540px; 
+ 	transform: scale(0.55);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.40);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.40);
+left: 570px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.32); 
+}
+
+
+
+ } 
+ @media (max-width: 875px) { 
+  
+  .img_block {
+  	margin-top: -250px;
+  	margin-left: -520px;
+  }
+
+ .button1{
+ 	right:10px; 
+ 	bottom: 280px;
+ 	transform: scale(0.55);
+ }
+ .button2{
+ 	top: 270px;
+ 	right: 85px; 
+ 	transform: scale(0.55);  
+ }
+
+ .button3{
+ 	top: 340px;
+ 	left: 540px; 
+ 	transform: scale(0.55);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.40);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.40);
+left: 570px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.32); 
+}
+
+
+
+ } 
+ @media (max-width: 855px) { 
+  
+  .img_block {
+  	margin-top: -250px;
+  	margin-left: -540px;
+  }
+
+ .button1{
+ 	right:10px; 
+ 	bottom: 280px;
+ 	transform: scale(0.55);
+ }
+ .button2{
+ 	top: 270px;
+ 	right: 85px; 
+ 	transform: scale(0.55);  
+ }
+
+ .button3{
+ 	top: 340px;
+ 	left: 540px; 
+ 	transform: scale(0.55);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.40);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.40);
+left: 570px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.32); 
+}
+
+
+
+ } 
+ @media (max-width: 835px) { 
+  
+  .img_block {
+  	margin-top: -250px;
+  	margin-left: -550px;
+  }
+
+ .button1{
+ 	right:00px; 
+ 	bottom: 280px;
+ 	transform: scale(0.55);
+ }
+ .button2{
+ 	top: 270px;
+ 	right: 75px; 
+ 	transform: scale(0.55);  
+ }
+
+ .button3{
+ 	top: 340px;
+ 	left: 540px; 
+ 	transform: scale(0.55);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.40);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.40);
+left: 570px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.32); 
+}
+
+
+
+ } 
+ @media (max-width: 815px) { 
+  
+  .img_block {
+  	margin-top: -300px;
+  	margin-left: -550px;
+  }
+
+ .button1{
+ 	right:30px; 
+ 	bottom: 310px;
+ 	transform: scale(0.45);
+ }
+ .button2{
+ 	top: 320px;
+ 	right: 95px; 
+ 	transform: scale(0.45);  
+ }
+
+ .button3{
+ 	top: 365px;
+ 	left: 620px; 
+ 	transform: scale(0.45);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.30);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.30);
+left: 590px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.25); 
+	left: 443px;
+    top: 255px;  
+}
+
+
+
+ } 
+ @media (max-width: 800px) { 
+  
+  .img_block {
+  	margin-top: -300px;
+  	margin-left: -570px;
+  }
+
+ .button1{
+ 	right:30px; 
+ 	bottom: 310px;
+ 	transform: scale(0.45);
+ }
+ .button2{
+ 	top: 320px;
+ 	right: 95px; 
+ 	transform: scale(0.45);  
+ }
+
+ .button3{
+ 	top: 365px;
+ 	left: 620px; 
+ 	transform: scale(0.45);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.30);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.30);
+left: 590px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.25); 
+	left: 443px;
+    top: 255px;  
+}
+
+
+
+ } 
+ @media (max-width: 780px) { 
+  
+  .img_block {
+  	margin-top: -300px;
+  	margin-left: -570px;
+  }
+
+ .button1{
+ 	right:10px; 
+ 	bottom: 310px;
+ 	transform: scale(0.45);
+ }
+ .button2{
+ 	top: 320px;
+ 	right: 75px; 
+ 	transform: scale(0.45);  
+ }
+
+ .button3{
+ 	top: 365px;
+ 	left: 620px; 
+ 	transform: scale(0.45);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.30);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.30);
+left: 590px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.25); 
+	left: 443px;
+    top: 265px;  
+}
+
+
+
+ } 
+
+ @media (max-width: 760px) { 
+  
+  .img_block {
+  	margin-top: -300px;
+  	margin-left: -580px;
+  }
+
+ .button1{
+ 	right:0px; 
+ 	bottom: 310px;
+ 	transform: scale(0.45);
+ }
+ .button2{
+ 	top: 320px;
+ 	right: 65px; 
+ 	transform: scale(0.45);  
+ }
+
+ .button3{
+ 	top: 365px;
+ 	left: 620px; 
+ 	transform: scale(0.45);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.30);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.30);
+left: 590px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.25); 
+	left: 443px;
+    top: 265px;  
+}
+
+
+
+ } 
+ @media (max-width: 740px) { 
+  
+  .img_block {
+  	margin-top: -300px;
+  	margin-left: -600px;
+  }
+
+ .button1{
+ 	right:0px; 
+ 	bottom: 310px;
+ 	transform: scale(0.45);
+ }
+ .button2{
+ 	top: 320px;
+ 	right: 65px; 
+ 	transform: scale(0.45);  
+ }
+
+ .button3{
+ 	top: 365px;
+ 	left: 620px; 
+ 	transform: scale(0.45);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.30);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.30);
+left: 590px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.25); 
+	left: 443px;
+    top: 265px;  
+}
+
+
+
+ } 
+  @media (max-width: 700px) { 
+  
+  .img_block {
+  	margin-top: -340px;
+  	margin-left: -650px;
+  }
+
+ .button1{
+ 	right:30px; 
+ 	bottom: 330px;
+ 	transform: scale(0.35);
+ }
+ .button2{
+ 	top: 340px;
+ 	right: 105px; 
+ 	transform: scale(0.35);  
+ }
+
+ .button3{
+ 	top: 375px;
+ 	left: 670px; 
+ 	transform: scale(0.35);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 635px;
+bottom: 260px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.20); 
+	left: 453px;
+    top: 255px;  
+}
+
+
+
+ } 
+  @media (max-width: 675px) { 
+  
+  .img_block {
+  	margin-top: -340px;
+  	margin-left: -650px;
+  }
+
+ .button1{
+ 	right:10px; 
+ 	bottom: 330px;
+ 	transform: scale(0.35);
+ }
+ .button2{
+ 	top: 340px;
+ 	right: 85px; 
+ 	transform: scale(0.35);  
+ }
+
+ .button3{
+ 	top: 375px;
+ 	left: 670px; 
+ 	transform: scale(0.35);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 635px;
+bottom: 260px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.20); 
+	left: 453px;
+    top: 255px;  
+}
+
+
+
+ } 
+
+@media (max-width: 655px) { 
+  
+  .img_block {
+  	margin-top: -340px;
+  	margin-left: -650px;
+  }
+
+ .button1{
+ 	right:0px; 
+ 	bottom: 330px;
+ 	transform: scale(0.35);
+ }
+ .button2{
+ 	top: 340px;
+ 	right: 65px; 
+ 	transform: scale(0.35);  
+ }
+
+ .button3{
+ 	top: 375px;
+ 	left: 670px; 
+ 	transform: scale(0.35);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 635px;
+bottom: 260px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.20); 
+	left: 453px;
+    top: 255px;  
+}
+
+
+
+ } 
+
+@media (max-width: 640px) { 
+  
+  .img_block {
+  	margin-top: -340px;
+  	margin-left: -650px;
+  }
+
+ .button1{
+ 	right:0px; 
+ 	bottom: 330px;
+ 	transform: scale(0.35);
+ }
+ .button2{
+ 	top: 340px;
+ 	right: 65px; 
+ 	transform: scale(0.35);  
+ }
+
+ .button3{
+ 	top: 375px;
+ 	left: 670px; 
+ 	transform: scale(0.35);  
+ }
+
+.Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 70px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 635px;
+bottom: 260px;
+z-index: 3;
+}
+.Backlinks {
+	transform: scale(0.20); 
+	left: 453px;
+    top: 255px;  
+}
+
+
+
+ } 

@@ -270,7 +270,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.86);
-left: 190px;
+left: 230px;
 bottom: 250px;
 z-index: 3;
 }
@@ -315,7 +315,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.84);
-left: 190px;
+left: 240px;
 bottom: 250px;
 z-index: 3;
 }
@@ -363,7 +363,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.78);
-left: 260px;
+left: 295px;
 bottom: 250px;
 z-index: 3;
 }
@@ -414,7 +414,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.78);
-left: 260px;
+left: 295px;
 bottom: 250px;
 z-index: 3;
 }
@@ -509,7 +509,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.68);
-left: 350px;
+left: 390px;
 bottom: 250px;
 z-index: 3;
 }
@@ -555,7 +555,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.68);
-left: 350px;
+left: 385px;
 bottom: 250px;
 z-index: 3;
 }
@@ -602,7 +602,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.68);
-left: 350px;
+left: 385px; 
 bottom: 250px;
 z-index: 3;
 }
@@ -643,7 +643,7 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.58);
-left: 420px;
+left: 445px;
 bottom: 250px;
 z-index: 3;
 }
@@ -694,7 +694,9 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+   transform: scale(0.42);
+    left: 463px;
+    top: 260px; 
 }
 
 .shadow {
@@ -741,7 +743,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.41); 
 }
 
 
@@ -783,7 +785,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -823,12 +825,12 @@ z-index: 2;
 .Arrow3 { 
 position: absolute;
  transform: scale(0.45);
-left: 520px;
+left: 525px;
 bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -873,7 +875,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -918,7 +920,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -963,7 +965,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1008,58 +1010,17 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40);    
 }
 
 
 
  } 
- @media (max-width: 1360px) { 
-  
-  .img_block {
-  	margin-top: -100px;
-  	margin-left: -300px;
-  }
-
- .button1{
- 	right:220px; 
- 	bottom: 260px;
- 	transform: scale(0.65);
- }
- .button2{
- 	top: 250px;
- 	right: 290px; 
- 	transform: scale(0.65);  
- }
-
- .button3{
- 	top: 320px;
- 	left: 490px; 
- 	transform: scale(0.65);  
- }
-
-.Arrow {
-position: absolute;
-transform: scale(0.45);
-left: 70px;
-top: 25px;
-z-index: 2;
-}
-
-.Arrow3 { 
-position: absolute;
- transform: scale(0.45);
-left: 520px;
-bottom: 250px;
-z-index: 3;
-}
-.Backlinks {
-	transform: scale(0.35); 
-}
+ 
 
 
 
- } 
+ 
 
  @media (max-width: 1320px) { 
   
@@ -1101,7 +1062,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1148,7 +1109,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1194,7 +1155,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1241,7 +1202,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1287,7 +1248,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1333,7 +1294,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1379,7 +1340,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1425,7 +1386,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1471,7 +1432,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1517,7 +1478,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1563,7 +1524,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1609,7 +1570,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1655,7 +1616,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1701,7 +1662,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1747,7 +1708,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1793,7 +1754,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1839,7 +1800,7 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
@@ -1885,54 +1846,12 @@ bottom: 250px;
 z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.35); 
+	transform: scale(0.40); 
 }
 
 
 
  } 
- @media (max-width: 975px) { 
-  
-  .img_block {
-  	margin-top: -100px;
-  	margin-left: -470px;
-  }
-
- .button1{
- 	right:5px; 
- 	bottom: 260px;
- 	transform: scale(0.65);
- }
- .button2{
- 	top: 250px;
- 	right: 65px; 
- 	transform: scale(0.65);  
- }
-
- .button3{
- 	top: 320px;
- 	left: 490px; 
- 	transform: scale(0.65);  
- }
-
-.Arrow {
-position: absolute;
-transform: scale(0.45);
-left: 70px;
-top: 25px;
-z-index: 2;
-}
-
-.Arrow3 { 
-position: absolute;
- transform: scale(0.45);
-left: 520px;
-bottom: 250px;
-z-index: 3;
-}
-.Backlinks {
-	transform: scale(0.35); 
-}
 
 
 
@@ -2247,15 +2166,15 @@ z-index: 2;
 
 .Arrow3 { 
 position: absolute;
- transform: scale(0.30);
-left: 590px;
-bottom: 250px;
-z-index: 3;
+    transform: scale(0.30);
+    left: 597px;
+    bottom: 262px;
+    z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.25); 
-	left: 443px;
-    top: 255px;  
+	transform: scale(0.27);
+    left: 455px;
+    top: 257px;
 }
 
 
@@ -2295,15 +2214,15 @@ z-index: 2;
 
 .Arrow3 { 
 position: absolute;
- transform: scale(0.30);
-left: 590px;
-bottom: 250px;
-z-index: 3;
+    transform: scale(0.30);
+    left: 594px;
+    bottom: 258px;
+    z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.25); 
-	left: 443px;
-    top: 255px;  
+	transform: scale(0.27);
+    left: 451px;
+    top: 261px; 
 }
 
 
@@ -2343,15 +2262,15 @@ z-index: 2;
 
 .Arrow3 { 
 position: absolute;
- transform: scale(0.30);
-left: 590px;
-bottom: 250px;
-z-index: 3;
+    transform: scale(0.30);
+    left: 600px;
+    bottom: 260px;
+    z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.25); 
-	left: 443px;
-    top: 265px;  
+	transform: scale(0.27);
+    left: 457px;
+    top: 257px; 
 }
 
 
@@ -2392,15 +2311,15 @@ z-index: 2;
 
 .Arrow3 { 
 position: absolute;
- transform: scale(0.30);
-left: 590px;
-bottom: 250px;
-z-index: 3;
+    transform: scale(0.30);
+    left: 600px;
+    bottom: 263px;
+    z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.25); 
-	left: 443px;
-    top: 265px;  
+	transform: scale(0.27);
+    left: 457px;
+    top: 257px; 
 }
 
 
@@ -2440,15 +2359,15 @@ z-index: 2;
 
 .Arrow3 { 
 position: absolute;
- transform: scale(0.30);
-left: 590px;
-bottom: 250px;
-z-index: 3;
+    transform: scale(0.30);
+    left: 594px;
+    bottom: 261px;
+    z-index: 3;
 }
 .Backlinks {
-	transform: scale(0.25); 
-	left: 443px;
-    top: 265px;  
+	transform: scale(0.27);
+    left: 452px;
+    top: 260px;
 }
 
 

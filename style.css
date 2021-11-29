@@ -14,8 +14,15 @@
     overflow: hidden;  
 }
 
-
-
+.fixed {
+	position: fixed;
+	bottom:20px;
+	color: black;
+	text-align: center;
+	display:block;
+	margin:0 auto;
+	width:100%;
+}
 
 
 
@@ -28,6 +35,9 @@ top: 270px;
 	transition: 0.2s;
 	
 }
+.Backlinks2 {
+display: none;
+}
 .Backlinks:hover {
 	transform: scale(0.9);
 }
@@ -39,6 +49,12 @@ height: 936px;
 left: 86px;
 top: 25px;
 z-index: 2;
+}
+.Arrow2 {
+display: none;
+}
+.Arrow4 {
+display: none;
 }
 
 .Arrow3 { 
@@ -3413,6 +3429,888 @@ z-index: 3;
 }
 
 }
+
+
+@media (max-width: 530px) { 
+ 	.img_block {
+ 		margin-top: -350px;
+ 		margin-left: -720px;  
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 30px;   
+ 	bottom: 390px; 
+ 	
+ }
+ #bat1 {
+ 	padding: 5px 10px;
+ 	font-size: 20px;
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 70px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 630px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	top: 258px ;
+	left: 470px;
+	transform: scale(0.25);
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+}
+@media (max-width: 510px) { 
+ 	.img_block {
+ 		margin-top: -350px;
+ 		margin-left: -740px;  
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 30px;   
+ 	bottom: 390px; 
+ 	
+ }
+ #bat1 {
+ 	padding: 5px 10px;
+ 	font-size: 20px;
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 70px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 630px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	top: 258px ;
+	left: 470px;
+	transform: scale(0.25);
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+}
+
+
+@media (max-width: 490px) { 
+ 	.img_block {
+ 		margin-top: -350px;
+ 		margin-left: -740px;  
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 10px;   
+ 	bottom: 390px; 
+ 	
+ }
+ #bat1 {
+ 	padding: 5px 10px;
+ 	font-size: 20px;
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 50px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 630px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	top: 258px ;
+	left: 470px;
+	transform: scale(0.25);
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+}
+
+
+@media (max-width: 470px) { 
+ 	.img_block {
+ 		margin-top: -350px;
+ 		margin-left: -750px;  
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	
+ }
+ #bat1 {
+ 	padding: 5px 10px;
+ 	font-size: 20px;
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow {
+position: absolute;
+transform: scale(0.25);
+left: 86px;
+top: 25px;
+z-index: 2;
+}
+
+.Arrow3 { 
+position: absolute;
+ transform: scale(0.25);
+left: 630px;
+bottom: 250px;
+z-index: 3;
+}
+.Backlinks {
+	top: 258px ;
+	left: 470px;
+	transform: scale(0.25);
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+}
+
+@media (max-width: 450px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 350px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-270px ;
+  display: block; 
+
+width:25%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 70px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+}
+
+
+@media (max-width: 435px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 350px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-270px ;
+  display: block; 
+
+width:25%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 60px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+
+
+
+@media (max-width: 410px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 350px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-250px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 50px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+
+
+@media (max-width: 385px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 330px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-250px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 42px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+@media (max-width: 365px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 330px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-230px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 37px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+@media (max-width: 350px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 330px;
+    left: 30%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-230px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 32px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+
+@media (max-width: 340px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 330px;
+    left: 27%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 35px ;
+ 	top :-230px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 27px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+@media (max-width: 325px) { 
+ 	.img_block {
+ 		max-width: 450px; 
+ 		margin: 0 auto;
+ 		justify-content: center;
+       position: relative;
+ 	}
+
+ .button1{
+ 	
+ 	display: block;
+ 	right: 0px;   
+ 	bottom: 390px; 
+ 	transform: rotate(0);
+ }
+ #bat1 {
+ 	padding: 15px 25px;
+ 	font-size: 30px;
+ 	transform: rotate(0deg);
+    position: relative;
+    top: 300px;
+    left: 27%;
+
+ }
+#bat2 {
+ 	padding: 5px 10px;
+ 	font-size: 12px;
+ 	display: none;
+ }#bat3 {
+ 	padding: 5px 10px; 
+ 	font-size: 12px;
+ 	display: none;
+ }
+
+
+ .button2{
+ 	top: 365px;
+ 	right: 40px;  
+ 	
+ }
+
+ .button3{
+ 	top: 410px;
+ 	left: 750px; 
+ 	
+ }
+ .Arrow2 {
+ 	position: relative;
+ 	left : 0px ;
+ 	top : -100px ;
+  display: block;
+
+width: 100%;
+
+}
+
+.Arrow4 { 
+position: relative;
+ 	left : 30px ;
+ 	top :-220px ;
+  display: block; 
+
+width:23%;
+}
+.Backlinks2 {
+	display: block;
+position: relative;
+width: 50%;
+top : 22px ;
+left: 25%;
+}
+.shadow {
+	transform: scale(0.30);
+}
+
+} 
+
+
+
+
+
 
 
 

@@ -116,8 +116,20 @@ transition: 0.2s;
     padding: 20px 30px;
     border-radius: 35px;
 }
-.button1:hover {  
-	transform: scale(1.1);
+#bat1:hover {
+    transform: rotate(-9deg);  
+	transform: scale(1.2); 
+    
+}
+#bat2:hover {
+    transform: rotate(-9deg);  
+    transform: scale(1.2); 
+    
+}
+#bat3:hover { 
+    transform: rotate(-9deg);  
+    transform: scale(1.2); 
+    
 }
 .button2  {
 position: absolute; 
@@ -573,6 +585,9 @@ z-index: 3;
  .Backlinks {
 	transform: scale(0.90);
 }
+.Backlinks:hover {
+    transform: scale(0.85); 
+}
  .Arrow {
 position: absolute;
 transform: scale(0.90);
@@ -639,6 +654,9 @@ left: 200px;
 bottom: 250px;
 z-index: 3;
 }
+.Backlinks:hover {
+    transform: scale(0.80); 
+}
 .shadow {
 	transform: scale(0.75);
 }
@@ -693,6 +711,9 @@ z-index: 3;
 .shadow {
 	transform: scale(0.75);
 }
+.Backlinks:hover {
+    transform: scale(0.85); 
+}
 
 }
 @media (max-width: 1575px) { 
@@ -743,6 +764,9 @@ z-index: 3;
 }
 .shadow {
 	transform: scale(0.75);
+}
+.Backlinks:hover {
+    transform: scale(0.82); 
 }
 
 }
@@ -847,6 +871,9 @@ z-index: 3;
 .Backlinks {
 	transform: scale(0.82);
 }
+.Backlinks:hover {
+    transform: scale(0.78); 
+}
 .shadow {
 	transform: scale(0.65);
 }
@@ -900,6 +927,9 @@ z-index: 3;
 }
 .shadow {
 	transform: scale(0.65);
+}
+.Backlinks:hover {
+    transform: scale(0.76); 
 }
 
 }
@@ -1002,6 +1032,9 @@ z-index: 3;
 }
 .Backlinks {
 	transform: scale(0.82);
+}
+.Backlinks:hover {
+    transform: scale(0.74); 
 }
 .shadow {
 	transform: scale(0.55);
@@ -1168,6 +1201,9 @@ z-index: 3;
 .Backlinks {
 	transform: scale(0.77);
 }
+.Backlinks:hover {
+    transform: scale(0.72); 
+}
 .shadow {
 	transform: scale(0.50);
 }
@@ -1276,6 +1312,9 @@ z-index: 3;
 }
 .Backlinks {
 	transform: scale(0.77);
+}
+.Backlinks:hover {
+    transform: scale(0.70); 
 }
 .shadow {
 	transform: scale(0.50);
@@ -1398,6 +1437,9 @@ z-index: 3;
 .Backlinks {
 	left: 460px;
 	transform: scale(0.73);
+}
+.Backlinks:hover {
+    transform: scale(0.67); 
 }
 .shadow {
 	transform: scale(0.40);
@@ -1523,6 +1565,9 @@ z-index: 3;
 .Backlinks {
 	left: 460px;
 	transform: scale(0.68);
+}
+.Backlinks:hover {
+    transform: scale(0.63); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -1712,6 +1757,9 @@ z-index: 3;
 	left: 460px;
 	transform: scale(0.68);
 }
+.Backlinks:hover {
+    transform: scale(0.60); 
+}
 .shadow {
 	transform: scale(0.30);
 }
@@ -1837,6 +1885,9 @@ z-index: 3;
 .Backlinks {
 	left: 460px;
 	transform: scale(0.63);
+}
+.Backlinks:hover {
+    transform: scale(0.58); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -2033,6 +2084,9 @@ z-index: 3;
 	left: 460px;
 	transform: scale(0.58);
 }
+.Backlinks:hover {
+    transform: scale(0.54); 
+}
 .shadow {
 	transform: scale(0.30);
 }
@@ -2222,7 +2276,10 @@ z-index: 3;
 }
 .Backlinks {
 	left: 460px;
-	transform: scale(0.53);
+	transform: scale(0.50);
+}
+.Backlinks:hover {
+    transform: scale(0.47); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -2478,6 +2535,9 @@ z-index: 3;
 	left: 460px;
 	transform: scale(0.45);
 }
+.Backlinks:hover {
+    transform: scale(0.40); 
+}
 .shadow {
 	transform: scale(0.30);
 }
@@ -2665,6 +2725,9 @@ z-index: 3;
 .Backlinks {
 	left: 460px;
 	transform: scale(0.40);
+}
+.Backlinks:hover {
+    transform: scale(0.36); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -2922,6 +2985,9 @@ z-index: 3;
     transform: scale(0.35);
     top: 262px;
 
+}
+.Backlinks:hover {
+    transform: scale(0.32); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -3186,6 +3252,9 @@ z-index: 3;
 	top: 258px ;
 	left: 470px;
 	transform: scale(0.30);
+}
+.Backlinks:hover {
+    transform: scale(0.27); 
 }
 .shadow {
 	transform: scale(0.30);
@@ -3512,6 +3581,9 @@ z-index: 3;
 	top: 258px ;
 	left: 470px;
 	transform: scale(0.25);
+}
+.Backlinks:hover {
+    transform: scale(0.22); 
 }
 .shadow {
 	transform: scale(0.30);

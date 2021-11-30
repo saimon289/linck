@@ -106,6 +106,16 @@ transition: 0.2s;
 	padding: 20px 30px;
 	border-radius: 35px;
 }
+#bat4 {
+    font-size:35px;
+    color: white;
+    background: linear-gradient(0deg, #63020b, #fb0003);
+    z-index: 4;
+    font-family: 'Balsamiq Sans', cursive;
+     display: none;
+    padding: 20px 30px;
+    border-radius: 35px;
+}
 .button1:hover {  
 	transform: scale(1.1);
 }
@@ -142,7 +152,9 @@ left: 87px;
 top: 512px; 
 z-index: 1;
 }
-
+.Arrow5 {
+    display: none; 
+}
 
   
 
@@ -3697,650 +3709,54 @@ z-index: 3;
 
 }
 
-@media (max-width: 450px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;;
- 	}
-
+@media (max-width: 450px) {
+    .img_block {
+        max-width :450px;
+        margin: 0 auto;
+    }
+    
  .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
+    display: none;
  }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 350px;
-    left: 30%;
-
+.button2{
+    display: none;
  }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
  .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
+    display: none;
  }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
+ .Arrow {
+display: none;
+}
+#bat4{
+     font-size:35px;
+    color: white;
+    background: linear-gradient(0deg, #63020b, #fb0003);
+    z-index: 4;
+    font-family: 'Balsamiq Sans', cursive;
+      display: block;
+    padding: 20px 30px;
+    border-radius: 35px;
+    margin: 100px auto;
+    transition: 0.2s;
 
 }
-
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-270px ;
-  display: block; 
-
-width:25%;
+#bat4:active {
+    transform: scale(1.2)
 }
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 70px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-}
-
-
-@media (max-width: 435px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 350px;
-    left: 30%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
-    position: relative;
-    left: 0px;
-    top: -155px;
+.Arrow5 {
     display: block;
-    width: 100%;
-
-
-}
-
-.Arrow4 {
-    position: relative;
-    left: 35px;
-    top: -325px;
+    max-width:100%;
     display: block;
-    width: 25%;
-}
-.Backlinks2 {
-    display: block;
-    position: relative;
-    width: 50%;
-    top: 0px;
-    left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
+    margin: 0 auto;
 }
 
-} 
-
-
-
-
-@media (max-width: 410px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 350px;
-    left: 30%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
+.Arrow3 { 
+display: none;
 }
-
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-250px ;
-  display: block; 
-
-width:23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 50px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-
-
-
-@media (max-width: 385px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 330px;
-    left: 30%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
-}
-
-.Arrow4 {
-    position: relative;
-    left: 35px;
-    top: -230px;
-    display: block;
-    width: 23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 42px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-
-@media (max-width: 365px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 330px;
-    left: 25%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
-}
-
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-230px ;
-  display: block; 
-
-width:23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 37px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-@media (max-width: 352px) {
-    .Arrow4 {
-    position: relative;
-    left: 22px;
-    top: -280px;
-    display: block;
-    width: 23%;
-}
-    .Backlinks2 {
-    display: block;
-    position: relative;
-    width: 56%;
-    top: 20px;
-    left: 21%;
-}
-  .Arrow2 {
-    position: relative;
-    left: -46px;
-    top: -135px;
-    display: block;
-    width: 120%;
+.Backlinks {
+   display: none;
 }
 }
-
-@media (max-width: 350px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 330px;
-    left: 30%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
-}
-
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-230px ;
-  display: block; 
-
-width:23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 32px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-
-
-@media (max-width: 340px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 330px;
-    left: 27%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
-}
-
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-230px ;
-  display: block; 
-
-width:23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 27px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-
-@media (max-width: 325px) { 
- 	.img_block {
- 		max-width: 450px; 
- 		margin: 0 auto;
- 		justify-content: center;
-       position: relative;
- 	}
-
- .button1{
- 	
- 	display: block;
- 	right: 0px;   
- 	bottom: 390px; 
- 	transform: rotate(0);
- }
- #bat1 {
- 	padding: 15px 25px;
- 	font-size: 30px;
- 	transform: rotate(0deg);
-    position: relative;
-    top: 300px;
-    left: 27%;
-
- }
-#bat2 {
- 	padding: 5px 10px;
- 	font-size: 12px;
- 	display: none;
- }#bat3 {
- 	padding: 5px 10px; 
- 	font-size: 12px;
- 	display: none;
- }
-
-
- .button2{
- 	top: 365px;
- 	right: 40px;  
- 	
- }
-
- .button3{
- 	top: 410px;
- 	left: 750px; 
- 	
- }
- .Arrow2 {
- 	position: relative;
- 	left : 0px ;
- 	top : -100px ;
-  display: block;
-
-width: 100%;
-
-}
-
-.Arrow4 { 
-position: relative;
- 	left : 30px ;
- 	top :-220px ;
-  display: block; 
-
-width:23%;
-}
-.Backlinks2 {
-	display: block;
-position: relative;
-width: 50%;
-top : 22px ;
-left: 25%;
-}
-.shadow {
-	transform: scale(0.30);
-}
-
-} 
-
 
 
 

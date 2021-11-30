@@ -66,6 +66,9 @@ left: 150px;
 bottom: 250px;
 z-index: 3;
 }
+.Arrow5 {
+    display: none; 
+}
 
 .button1  {
 position: absolute;
@@ -164,9 +167,7 @@ left: 87px;
 top: 512px; 
 z-index: 1;
 }
-.Arrow5 {
-    display: none; 
-}
+
 
   
 
@@ -3816,7 +3817,7 @@ display: none;
     transform: scale(1.2)
 }
 .Arrow5 {
-    display: block;
+    display: block !important;
     max-width:100%;
     display: block;
     margin: 0 auto;

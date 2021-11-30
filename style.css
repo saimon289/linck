@@ -3831,13 +3831,12 @@ left: 25%;
 
 }
 
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-270px ;
-  display: block; 
-
-width:25%;
+.Arrow4 {
+    position: relative;
+    left: 35px;
+    top: -325px;
+    display: block;
+    width: 25%;
 }
 .Backlinks2 {
     display: block;
@@ -3990,13 +3989,12 @@ width: 100%;
 
 }
 
-.Arrow4 { 
-position: relative;
- 	left : 35px ;
- 	top :-250px ;
-  display: block; 
-
-width:23%;
+.Arrow4 {
+    position: relative;
+    left: 35px;
+    top: -230px;
+    display: block;
+    width: 23%;
 }
 .Backlinks2 {
 	display: block;

@@ -1206,7 +1206,8 @@ z-index: 3;
     transform: scale(0.72); 
 }
 .shadow {
-	transform: scale(0.50);
+    top: 493px;
+    transform: scale(0.50);
 }
 
 }
@@ -1445,9 +1446,9 @@ z-index: 3;
     transform: scale(0.67); 
 }
 .shadow {
-	transform: scale(0.40);
+    top: 488px;
+    transform: scale(0.40);
 }
-
 }
 
 
@@ -1573,7 +1574,8 @@ z-index: 3;
     transform: scale(0.63); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 485px;
+    transform: scale(0.30);
 }
 
 }
@@ -1893,7 +1895,8 @@ z-index: 3;
     transform: scale(0.58); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 464px;
+    transform: scale(0.30);
 }
 
 }
@@ -2091,7 +2094,8 @@ z-index: 3;
     transform: scale(0.54); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 444px;
+    transform: scale(0.30);
 }
 
 }
@@ -2285,7 +2289,8 @@ z-index: 3;
     transform: scale(0.47); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 423px;
+    transform: scale(0.30);
 }
 
 }
@@ -2542,7 +2547,8 @@ z-index: 3;
     transform: scale(0.40); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 403px;
+    transform: scale(0.30);
 }
 
 }
@@ -2733,7 +2739,8 @@ z-index: 3;
     transform: scale(0.36); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 383px;
+    transform: scale(0.30);
 }
 
 }
@@ -2993,7 +3000,8 @@ z-index: 3;
     transform: scale(0.32); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 363px;
+    transform: scale(0.30);
 }
 
 }
@@ -3260,7 +3268,8 @@ z-index: 3;
     transform: scale(0.27); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 343px;
+    transform: scale(0.30);
 }
 
 }
@@ -3589,7 +3598,8 @@ z-index: 3;
     transform: scale(0.22); 
 }
 .shadow {
-	transform: scale(0.30);
+    top: 323px;
+    transform: scale(0.30);
 }
 
 }
